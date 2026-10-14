@@ -1,0 +1,10 @@
+coverage.out
+*.test
+
+dist/
+
+.DS_Store
+
+__pycache__/
+
+artifacts/
